@@ -15,6 +15,7 @@ public class Java7ResourceManagement_Exceptions {
 		}
 	}
 
+	//Normal Exception Handling
 	private static void normalTryException() throws Exception {
 		MyResource mr = null;
 		try {
